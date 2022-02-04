@@ -1,0 +1,269 @@
+PARENT_SERVICE,PRIORITY,STATUS,ACTUAL_COMPLETION_HRS,BUSINESS_COMPLETION_HRS
+IT Continuity Support Service,Medium,CLOSED,14735.13,4219.11
+Midrange,Medium,RESOLVED,6480.886666666666,1860.8833333333334
+Internal Credential Management (ICM),Medium,INPROG,5571.14,1603.15
+Solutions Integration Service (SIS),Low,CLOSED,4071.95,1172.52
+GC WAN,Low,RESOLVED,3144.2219999999998,903.798
+Other Activities,High,CLOSED,2889.0186723768757,2889.0186723768757
+Firewall,Medium,RESOLVED,2888.2660000000005,829.122
+Intra-building Network Services,Low,RESOLVED,2731.701111111111,778.9644444444443
+High-performance Computing,Low,RESOLVED,2575.4625714285717,737.181142857143
+Email,Medium,RESOLVED,2355.3566666666666,676.77
+Data Centre Facilities Management,Medium,RESOLVED,2272.8,646.0825
+Firewall,Low,RESOLVED,2227.066,635.6220000000001
+Other Activities,Low,RESOLVED,2176.9518181818185,623.340909090909
+Other Activities,Medium,RESOLVED,1978.7919999999995,569.798
+Satellite,Medium,CLOSED,1934.07,556.0366666666666
+High-performance Computing,Low,INPROG,1911.87,529.6
+Conferencing Services,Medium,RESOLVED,1698.74,485.14
+Satellite,Low,CLOSED,1674.0886206896546,479.1493103448276
+Bulk Print,Low,CLOSED,1420.8775,403.945
+High-performance Computing,Medium,RESOLVED,1330.8490909090908,385.63727272727266
+Intra-building Network Services,Low,INPROG,1328.16,367.35
+Intra-building Network Services,Medium,RESOLVED,1271.301818181818,364.2009090909091
+Data Centre Facilities Management,Low,RESOLVED,1215.5800000000002,351.3833333333334
+Government of Canada Managed Security Service,Low,RESOLVED,1086.25,306.25
+Fixed Line,Medium,RESOLVED,981.91,277.92
+Email,Low,RESOLVED,871.3580000000002,260.022
+Contact Centre,Medium,RESOLVED,842.2833333333334,237.49666666666667
+Directory Services,Low,RESOLVED,827.355,239.355
+Contact Centre,Low,RESOLVED,825.6133333333333,240.52333333333334
+Internal Credential Management (ICM),Medium,RESOLVED,745.2,221.2
+Storage,Medium,RESOLVED,741.578,213.42600000000002
+Cloud Brokering,High,CLOSED,649.85,649.85
+Secure Remote Access,Low,RESOLVED,639.72,189.35
+Directory Services,Medium,RESOLVED,632.5899999999999,189.97
+Conferencing Services,Medium,CLOSED,619.9819210053857,176.06881508079016
+GC WAN,Medium,RESOLVED,601.421111111111,178.64000000000001
+Toll-free Voice,Low,CLOSED,590.2822727272729,166.57738636363635
+Firewall,Low,CLOSED,541.3565220789363,153.52492379835903
+Contact Centre,Medium,CLOSED,525.1215495342931,149.50979678238775
+Data Centre Facilities Management,Low,CLOSED,468.6998779915523,133.37961520412952
+Intra-building Network Services,Low,CLOSED,456.3094210793925,128.82510205564037
+Fixed Line,Medium,CLOSED,454.3365531914893,128.67441337386032
+Intra-building Network Services,Medium,CLOSED,448.0833662564764,127.3903983160624
+Contact Centre,Low,CLOSED,447.98492702344123,127.2526205218925
+Government of Canada Managed Security Service,High,CLOSED,442.625,442.625
+Firewall,Medium,CLOSED,438.01873594241994,123.99291497975706
+Toll-free Voice,Medium,CLOSED,436.6199999999999,122.89432835820892
+Mobile Devices,Low,RESOLVED,435.11,123.11
+Cloud Brokering,Medium,CLOSED,425.7315384615385,122.27615384615386
+Conferencing Services,Low,CLOSED,408.58780333069006,115.59486915146714
+Secure Remote Access,Low,CLOSED,403.3019447513807,114.7939337016573
+Classified Infrastructure,Medium,CLOSED,397.37217391304347,114.1191304347826
+Other Activities,Low,CLOSED,383.8568554659514,110.77543302953765
+Conferencing Services,Low,RESOLVED,382.67,118.69
+Fixed Line,Low,CLOSED,362.80148845686574,102.68189307411869
+Middleware,Medium,RESOLVED,340.93,106.93333333333334
+Storage,Medium,CLOSED,340.83309466019404,97.10222087378645
+Mobile Devices,Medium,CLOSED,340.20440261865787,96.41657937806896
+Secure Remote Access,Medium,RESOLVED,339.97,103.96
+Midrange,Low,RESOLVED,332.05333333333334,103.19666666666667
+Government of Canada Managed Security Service,Low,CLOSED,312.5091244239633,88.51382488479261
+Other Activities,Medium,CLOSED,308.8806999213602,87.63818335018614
+Directory Services,Medium,CLOSED,305.3057217165152,86.52378413524053
+Storage,Low,CLOSED,302.0575791624102,85.57363976847111
+Intra-building Network Services,Medium,SLAHOLD,290.79,82.78
+Government of Canada Managed Security Service,Medium,CLOSED,284.4643548387097,80.83838709677421
+High-performance Computing,Low,CLOSED,283.56506531350357,87.10313605305522
+Classified Infrastructure,Low,CLOSED,274.86166666666657,80.67555555555556
+Data Centre Facilities Management,Medium,CLOSED,261.4688147768084,74.58638789122635
+Midrange,Medium,CLOSED,246.2384347826086,69.80574703557306
+Email,Medium,CLOSED,245.2329026548672,69.99230088495578
+Database,Medium,CLOSED,237.90200913242,66.83520547945204
+GC WAN,Low,CLOSED,235.3820284697514,65.50890815476642
+Managed Secure File Transfer,Low,CLOSED,226.30596491228067,62.14070175438597
+Email,Low,CLOSED,219.98643363249835,61.838216816249584
+Secure Remote Access,Medium,CLOSED,213.40165808444885,60.53530895983527
+Directory Services,Low,CLOSED,195.3719344547563,55.370527842227325
+Conferencing Services,High,CLOSED,194.52142857142857,194.52142857142857
+Secure Remote Access,High,CLOSED,180.56074074074075,180.56074074074075
+Managed Secure File Transfer,Medium,CLOSED,179.07466666666662,52.71399999999999
+Internal Credential Management (ICM),Medium,CLOSED,178.02935185185194,50.16953703703704
+Mobile Devices,Low,CLOSED,177.8363905744344,50.039576254045414
+Mainframe,Low,CLOSED,176.65192503470615,49.43309116149935
+Contact Centre,High,CLOSED,173.8377511961723,173.8377511961723
+Internal Credential Management (ICM),Low,CLOSED,168.04524008350728,47.81931106471821
+Firewall,High,CLOSED,167.30485148514848,167.30485148514848
+Database,Low,CLOSED,164.17669865642995,46.62769673704416
+Internal Credential Management (ICM),High,CLOSED,158.62571428571428,158.62571428571428
+GC WAN,Medium,CLOSED,155.46675035753933,42.9538701732084
+Cloud Brokering,Low,CLOSED,146.62392156862745,40.84990196078431
+High-performance Computing,Medium,INPROG,144.39,40.4
+Distributed Print,Low,CLOSED,141.8455617977528,39.95432584269665
+Intra-building Network Services,High,CLOSED,130.03837681159422,130.03837681159422
+Distributed Print,Medium,CLOSED,127.30275862068966,37.243103448275875
+Fixed Line,High,CLOSED,124.40902439024391,124.40902439024391
+Midrange,Low,CLOSED,119.4751961030617,32.65238896798123
+Mobile Devices,High,CLOSED,118.07970873786408,118.07970873786408
+Workplace Technology Services,Low,CLOSED,114.40002247191016,29.505483146067387
+Workplace Technology Services,Medium,CLOSED,102.63709677419354,28.57387096774193
+High-performance Computing,High,CLOSED,95.91333333333336,95.91333333333336
+WTD Provisioning,Low,CLOSED,84.58999999999999,27.363333333333333
+Internet,Low,CLOSED,79.744,21.163999999999998
+Mainframe,Medium,CLOSED,78.57756570302222,21.528768068331125
+Midrange,High,CLOSED,75.69901477832515,75.69901477832515
+Email,High,CLOSED,73.21136363636367,73.21136363636367
+Middleware,Low,CLOSED,63.31800788247945,16.25772602412507
+Middleware,Medium,CLOSED,62.27262454435018,16.46775039055721
+Directory Services,High,CLOSED,59.64698113207548,59.64698113207548
+Data Centre Facilities Management,High,CLOSED,53.520677290836666,53.520677290836666
+Storage,High,CLOSED,48.19933333333333,48.19933333333333
+High-performance Computing,Medium,CLOSED,41.350806055646316,59.83934124386262
+GC WAN,High,CLOSED,38.14567251461989,38.14567251461989
+GC WAN,Low,QUEUED,28.37,14.37
+High-performance Computing,Medium,AWAITVEN,12.41,0.0
+Classified Infrastructure,High,CLOSED,12.280000000000001,12.280000000000001
+Middleware,High,CLOSED,10.957915518824601,10.957915518824601
+Toll-free Voice,High,CLOSED,8.472857142857142,8.472857142857142
+Mainframe,High,CLOSED,6.677142857142857,6.677142857142857
+Database,High,CLOSED,6.059523809523809,6.059523809523809
+GC WAN,Medium,QUEUED,3.7,3.68
+Internet,Medium,CLOSED,3.4850000000000003,3.49
+Facilities-as-a-service (FaaS),Medium,CLOSED,3.46,3.47
+Storage,Low,SLAHOLD,3.21,3.22
+Bulk Print,Medium,CLOSED,1.395,1.4000000000000001
+GC WAN,Medium,SLAHOLD,0.56,0.57
+Distributed Print,High,CLOSED,0.41000000000000003,0.41000000000000003
+GC WAN,Medium,AWAITVEN,0.37,0.0
+GC WAN,Medium,INPROG,0.11,0.0
+High-performance Computing,Low,AWAITVEN,-0.6777777777777783,0.31777777777777777
+Bulk Print,Low,QUEUED,,
+Bulk Print,Medium,INPROG,,
+Classified Infrastructure,Low,INPROG,,
+Cloud Brokering,Low,QUEUED,,
+Conferencing Services,Low,AWAITCHG,,
+Conferencing Services,Low,AWAITCUS,,
+Conferencing Services,Low,AWAITVEN,,
+Conferencing Services,Low,SLAHOLD,,
+Conferencing Services,Medium,AWAITCHG,,
+Conferencing Services,Medium,AWAITCUS,,
+Contact Centre,Low,AWAITCHG,,
+Contact Centre,Low,INPROG,,
+Contact Centre,Medium,AWAITCUS,,
+Contact Centre,Medium,AWAITVEN,,
+Contact Centre,Medium,INPROG,,
+Contact Centre,Medium,QUEUED,,
+Data Centre Facilities Management,Low,AWAITVEN,,
+Data Centre Facilities Management,Low,INPROG,,
+Data Centre Facilities Management,Low,QUEUED,,
+Data Centre Facilities Management,Low,SLAHOLD,,
+Data Centre Facilities Management,Medium,AWAITVEN,,
+Data Centre Facilities Management,Medium,INPROG,,
+Data Centre Facilities Management,Medium,QUEUED,,
+Data Centre Facilities Management,Medium,SLAHOLD,,
+Directory Services,Low,AWAITCUS,,
+Directory Services,Low,SLAHOLD,,
+Directory Services,Medium,AWAITCUS,,
+Directory Services,Medium,INPROG,,
+Directory Services,Medium,QUEUED,,
+Email,Low,AWAITCUS,,
+Email,Low,AWAITVEN,,
+Email,Low,INPROG,,
+Email,Low,QUEUED,,
+Email,Medium,AWAITCUS,,
+Email,Medium,INPROG,,
+Email,Medium,QUEUED,,
+Firewall,Low,AWAITCUS,,
+Firewall,Low,AWAITVEN,,
+Firewall,Low,INPROG,,
+Firewall,Low,QUEUED,,
+Firewall,Low,SLAHOLD,,
+Firewall,Medium,AWAITCUS,,
+Firewall,Medium,INPROG,,
+Firewall,Medium,QUEUED,,
+Firewall,Medium,SLAHOLD,,
+Fixed Line,Low,AWAITCUS,,
+Fixed Line,Low,INPROG,,
+Fixed Line,Low,QUEUED,,
+Fixed Line,Low,SLAHOLD,,
+Fixed Line,Medium,AWAITCUS,,
+Fixed Line,Medium,INPROG,,
+Fixed Line,Medium,QUEUED,,
+Fixed Line,Medium,SLAHOLD,,
+GC WAN,High,AWAITCUS,,
+GC WAN,High,QUEUED,,
+GC WAN,High,SLAHOLD,,
+GC WAN,Low,AWAITCHG,,
+GC WAN,Low,AWAITCUS,,
+GC WAN,Low,AWAITVEN,,
+GC WAN,Low,INPROG,,
+GC WAN,Low,SLAHOLD,,
+GC WAN,Medium,AWAITCHG,,
+GC WAN,Medium,AWAITCUS,,
+Government of Canada Managed Security Service,Low,AWAITCUS,,
+High-performance Computing,Low,AWAITCUS,,
+High-performance Computing,Low,QUEUED,,
+High-performance Computing,Low,SLAHOLD,,
+High-performance Computing,Medium,AWAITCHG,,
+High-performance Computing,Medium,AWAITCUS,,
+High-performance Computing,Medium,QUEUED,,
+High-performance Computing,Medium,SLAHOLD,,
+Internal Credential Management (ICM),Low,QUEUED,,
+Internal Credential Management (ICM),Medium,QUEUED,,
+Intra-building Network Services,High,INPROG,,
+Intra-building Network Services,High,QUEUED,,
+Intra-building Network Services,Low,AWAITCHG,,
+Intra-building Network Services,Low,AWAITCUS,,
+Intra-building Network Services,Low,AWAITVEN,,
+Intra-building Network Services,Low,QUEUED,,
+Intra-building Network Services,Low,SLAHOLD,,
+Intra-building Network Services,Medium,AWAITCUS,,
+Intra-building Network Services,Medium,AWAITVEN,,
+Intra-building Network Services,Medium,INPROG,,
+Intra-building Network Services,Medium,QUEUED,,
+Mainframe,Low,SLAHOLD,,
+Mainframe,Medium,QUEUED,,
+Mainframe,Medium,SLAHOLD,,
+Middleware,Low,QUEUED,,
+Middleware,Medium,INPROG,,
+Middleware,Medium,QUEUED,,
+Middleware,Medium,SLAHOLD,,
+Midrange,High,QUEUED,,
+Midrange,Low,AWAITCUS,,
+Midrange,Low,INPROG,,
+Midrange,Low,QUEUED,,
+Midrange,Low,SLAHOLD,,
+Midrange,Medium,AWAITCUS,,
+Midrange,Medium,INPROG,,
+Midrange,Medium,QUEUED,,
+Midrange,Medium,SLAHOLD,,
+Mobile Devices,Low,AWAITCUS,,
+Mobile Devices,Low,AWAITVEN,,
+Mobile Devices,Medium,SLAHOLD,,
+Other Activities,High,AWAITCUS,,
+Other Activities,High,QUEUED,,
+Other Activities,High,SLAHOLD,,
+Other Activities,Low,AWAITCHG,,
+Other Activities,Low,AWAITCUS,,
+Other Activities,Low,AWAITVEN,,
+Other Activities,Low,INPROG,,
+Other Activities,Low,QUEUED,,
+Other Activities,Low,SLAHOLD,,
+Other Activities,Medium,AWAITCHG,,
+Other Activities,Medium,AWAITCUS,,
+Other Activities,Medium,AWAITVEN,,
+Other Activities,Medium,INPROG,,
+Other Activities,Medium,QUEUED,,
+Other Activities,Medium,SLAHOLD,,
+Satellite,Low,AWAITCUS,,
+Satellite,Medium,QUEUED,,
+Secure Remote Access,Low,AWAITCUS,,
+Secure Remote Access,Low,INPROG,,
+Secure Remote Access,Low,QUEUED,,
+Secure Remote Access,Low,SLAHOLD,,
+Secure Remote Access,Medium,AWAITVEN,,
+Secure Remote Access,Medium,INPROG,,
+Secure Remote Access,Medium,QUEUED,,
+Secure Remote Access,Medium,SLAHOLD,,
+Storage,Low,AWAITCHG,,
+Storage,Low,AWAITCUS,,
+Storage,Low,INPROG,,
+Storage,Low,QUEUED,,
+Storage,Medium,AWAITCUS,,
+Storage,Medium,AWAITVEN,,
+Storage,Medium,INPROG,,
+Storage,Medium,QUEUED,,
+Storage,Medium,SLAHOLD,,
+Toll-free Voice,Medium,AWAITCUS,,
+Toll-free Voice,Medium,QUEUED,,
