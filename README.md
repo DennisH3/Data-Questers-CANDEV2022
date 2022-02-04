@@ -23,8 +23,11 @@ Note: The metrics and questions have been reordered.
 Note: The original data used for this challenge is not posted in this repository.
 
 # Files
-- AVGDATA directory: contains all the csv outputs of the basic_statistics.ipynb file
+- AVGDATA directory: contains all the csv outputs for ALL data
+- AVGDATA_JEM: contains all the csv outputs for JUST EVENT MANAGEMENT tickets
+- AVGDATA_EEM: contains all the csv outputs for EXCLUDING EVENT MANAGEMENT tickets
 - basic_statistics.ipynb: contains code that answers all the average time questions. Also compares just, excluding, and including Event Management Tickets averages.
+
 
 
 # Team Members

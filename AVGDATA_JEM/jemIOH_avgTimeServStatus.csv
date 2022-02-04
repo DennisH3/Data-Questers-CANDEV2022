@@ -1,0 +1,366 @@
+service,STATUS,TIME_IN_STATUS_BY_OWNER_HRS
+Bulk Print,QUEUED,2111.00833333335
+Other - Security,AWAITCUS,1468.9916666587126
+Mobile Devices,INPROG,1321.3333333
+Mobile Devices,QUEUED,1010.0
+Bulk Print,INPROG,952.63333333
+Secure Remote Access,AWAITCUS,727.80833335
+Mainframe - zOS & zLinux,SLAHOLD,694.9866666800599
+Data Centre Facilities Management,PENDINGVEN,584.4444444444333
+Email,AWAITCUS,570.07666666534
+Other - Security,AWAITCHG,543.02499998335
+Intra-building Network Services,AWAITVEN,531.913333334
+Storage,AWAITCUS,528.7833333433333
+Mainframe - zOS & zLinux,QUEUED,482.5097643086998
+Distributed Print,QUEUED,319.45
+Classified Infrastructure - GCSI - Hosting Environment,QUEUED,290.0
+Intra-building Network Services,INPROG,282.9548865605157
+Intra-building Network Services,SLAHOLD,265.66287878710904
+Firewall,AWAITCUS,253.46282051403853
+Midrange - Windows -X86,SLAHOLD,234.3708137714201
+Middleware,PENDINGREV,225.6
+IBN - Data Centre Network,AWAITCHG,205.2083333315
+High-performance Computing,AWAITVEN,193.53768156157258
+Firewall,AWAITVEN,193.32608695673915
+IBN - Data Centre Network,AWAITCUS,187.942857142
+Other - Data Centre,SLAHOLD,183.06363636093636
+HPC -Big Data Exchange,PENDINGVEN,181.99166666721666
+Mainframe - zOS & zLinux,AWAITVEN,179.20166666763
+IBN - GC Wi-Fi,AWAITCUS,173.41545454585085
+Other - Security,AWAITVEN,172.57499999993334
+IBN - Data Centre Network,AWAITVEN,166.76666666499997
+Other - Security,QUEUED,163.8757550339081
+Midrange,AWAITVEN,162.63846153536153
+HPC -Big Data Exchange,AWAITCHG,158.38088235302942
+Workplace Technology Services,AWAITCHG,150.68333333
+Intra-building Network Services,AWAITCUS,149.22166666764002
+HPC -Big Data Exchange,PENDINGREV,147.54583333360833
+Midrange - Windows -X86,AWAITCHG,145.02870370303148
+Other - Security,PENDING,142.32857142861428
+IBN - GC Wi-Fi,AWAITVEN,135.84545454581817
+High-performance Computing,PENDINGVEN,130.39281345583396
+Midrange - Storage and Virtualization,AWAITVEN,124.75
+Other - Data Centre,AWAITVEN,124.74166666500001
+HPC -Big Data Exchange,PENDINGCHG,124.07499999999999
+Facilities - Data Centre Facilities Racking & Stacking,INPROG,120.3717391306087
+Mobile Devices,PENDINGREV,111.058333335
+IBN - GC Wi-Fi,SLAHOLD,106.05303030327183
+Facilities - Data Centre Facilities Power & Space,AWAITVEN,104.14696969697273
+Facilities - Data Centre Facilities Power & Space,AWAITCUS,99.30952380952856
+Data Centre Facilities Management,SLAHOLD,96.76666666695715
+Other - Service Management,AWAITCUS,95.65098039244559
+Other - Security,INPROG,95.29068627392208
+Other - Service Management,PENDINGREV,93.65750000036499
+Intra-building Network Services,QUEUED,88.39677263960641
+Cloud Brokering,AWAITVEN,87.39166666582499
+Midrange - Windows -X86,PENDING,80.9771739130217
+Internal Credential Management (ICM),AWAITCUS,76.81666666665
+HPC -Big Data Exchange,AWAITVEN,74.53571428661428
+High-performance Computing,AWAITCUS,74.37307692305383
+Workplace Technology Services,AWAITVEN,73.33333333291154
+Midrange,AWAITCHG,72.56199999996
+HPC -Big Data Exchange,PENDINGCUS,71.7452380948
+IBN - GC LAN,AWAITCHG,71.52990196057058
+GC WAN National,INPROG,69.36551724142414
+Firewall,SLAHOLD,68.03840579714782
+Firewall,QUEUED,67.27997728997975
+IBN - GC LAN,SLAHOLD,67.18111111075667
+HPC -Big Data Exchange,SLAHOLD,66.1728354974487
+Midrange - Windows -X86,PENDINGCHG,64.55
+HPC - Interaction & Visualization,AWAITCHG,62.68703703633334
+Secure Remote Access,AWAITVEN,61.488888889
+Other - Internal Services & Strategy,QUEUED,61.01825396831906
+Midrange - Storage and Virtualization,PENDINGCUS,60.583333333
+Mainframe - zOS & zLinux,INPROG,60.347311829019375
+HPC - Interaction & Visualization,AWAITCUS,57.78939394002726
+High-performance Computing,SLAHOLD,57.22330246899922
+IBN - GC Wi-Fi,PENDING,56.983333333209096
+Mainframe,AWAITVEN,56.547368420999994
+Email,QUEUED,56.3937883436627
+Midrange,SLAHOLD,55.74166666655739
+Managed Secure File Transfer,QUEUED,53.93777777777999
+Other - Service Management,AWAITCHG,53.83020833294375
+HPC - Interaction & Visualization,AWAITVEN,53.45555555443334
+Midrange - Windows -X86,AWAITVEN,53.383999999736005
+Other - Security,PENDINGCUS,52.741666665
+Mobile - Enterprise Mobile Device Management (EMDM),AWAITVEN,51.378571428242864
+HPC -Big Data Exchange,PENDING,51.197839506372205
+IBN - GC LAN,PENDINGCHG,51.13888888776666
+IBN - GC LAN,AWAITCUS,51.075108224949346
+Midrange,INPROG,48.82976190480839
+Midrange,AWAITCUS,48.74516129026506
+Midrange - Storage and Virtualization,QUEUED,47.60860215048322
+Other - Service Management,PENDINGVEN,47.07045454586971
+Workplace Technology Services,AWAITCUS,46.516666667
+High-performance Computing,AWAITCHG,46.209777777792
+GC WAN,AWAITCUS,45.9410947712865
+Directory Services,AWAITVEN,45.86666666666667
+Firewall,INPROG,44.02549668881648
+IBN - Data Centre Network,QUEUED,43.12852376983669
+Other - Service Management,AWAITVEN,41.780092592761115
+Mainframe,AWAITCHG,41.745833333175
+GC WAN,SLAHOLD,41.66429758935684
+Other - Service Management,SLAHOLD,41.63761904757285
+High-performance Computing,PENDINGCUS,41.25000000061429
+Other - Project Management & Delivery,INPROG,39.383333333
+Secure Remote Access,INPROG,38.81818181763818
+Database,PENDING,38.683333333
+Intra-building Network Services,AWAITCHG,37.6416666665
+Other - Service Management,PENDINGCUS,36.68194444416667
+GC WAN National,QUEUED,35.7154088050368
+Midrange - Windows -X86,PENDINGCUS,35.672727273363634
+Middleware,AWAITCHG,35.43784722241251
+Database,QUEUED,35.20342396764321
+Internal Credential Management (ICM),QUEUED,34.92927927934461
+Other - Security,SLAHOLD,34.774166666709995
+High-performance Computing,PENDINGREV,33.46349206369048
+Data Centre Facilities Management,INPROG,33.1120129870341
+Facilities - Data Centre Facilities Power & Space,SLAHOLD,33.0083333335
+IBN - Data Centre Network,INPROG,30.936181434625958
+Workplace Technology Services,INPROG,30.91818181782727
+Mobile - Enterprise Mobile Device Management (EMDM),AWAITCHG,30.3125
+Email,PENDING,30.11999999994
+GC WAN,AWAITVEN,29.594879725143066
+Directory Services,INPROG,29.151574074080564
+Other - Data Centre,QUEUED,28.883253012023335
+Other - Service Management,PENDING,28.697115384611536
+Mainframe,SLAHOLD,28.20185185185555
+GC WAN,AWAITCHG,27.999537037038884
+Middleware,SLAHOLD,27.911560693823123
+Mobile - Enterprise Mobile Device Management (EMDM),SLAHOLD,27.84298245596842
+Facilities - Data Centre Facilities Racking & Stacking,SLAHOLD,27.670833333250002
+Storage - File,AWAITCUS,27.51
+Middleware,PENDINGCUS,26.899999999174998
+IBN - GC LAN,INPROG,26.49830450992703
+Other - Telecom & Network,INPROG,26.478571428628566
+Other - Telecom & Network,SLAHOLD,26.0125
+IBN - GC Wi-Fi,AWAITCHG,25.14642857168571
+Midrange - Windows -X86,AWAITCUS,24.93082077052587
+Workplace Technology Services,SLAHOLD,24.700000000000003
+IBN - GC Wi-Fi,INPROG,24.582451763178252
+Conferencing - Videoconferencing,QUEUED,24.502777777775005
+High-performance Computing,INPROG,23.817787151188433
+Contact Centre,INPROG,23.785062893082063
+Storage,QUEUED,23.171275535647133
+Database,PENDINGCUS,22.833333333
+Database,INPROG,22.80857142848571
+GC WAN National,AWAITVEN,22.75666666674
+Midrange - Windows -X86,PENDINGREV,22.442424242590906
+GC WAN,PENDINGVEN,22.064539007168086
+Other - Service Management,INPROG,21.804032542443515
+Mobile - Mobile Device - Government Cellular Services,QUEUED,21.65
+Mobile - Voice & Data,QUEUED,21.483333333500003
+Midrange,PENDING,21.45555555545
+Directory Services,QUEUED,21.125923852239616
+Firewall,AWAITCHG,20.330208333150004
+Midrange,QUEUED,20.048959463462346
+High-performance Computing,PENDING,19.891441441481078
+HPC -Big Data Exchange,AWAITCUS,19.460256410246153
+Facilities - Data Centre Facilities Racking & Stacking,AWAITCUS,19.36481481477778
+Data Centre Facilities Management,QUEUED,19.29393090570982
+High-performance Computing,PENDINGCHG,19.23333333301111
+IBN - GC LAN,PENDING,18.778455284548777
+IBN - GC LAN,QUEUED,18.570200909226816
+Other - Security,PENDINGREV,18.503333333329998
+Middleware,AWAITCUS,17.88851132684321
+Fixed Line,INPROG,17.061111111233334
+Toll-free Voice,QUEUED,16.783333333
+IBN - Data Centre Network,SLAHOLD,16.564035087726317
+Facilities - Data Centre Facilities Power & Space,INPROG,16.33777777789
+GC WAN National,SLAHOLD,16.030555555566668
+Fixed Line,QUEUED,16.026666666740002
+Secure Remote Access,QUEUED,15.844855004696896
+Facilities - Data Centre Facilities Power & Space,QUEUED,15.581568627538822
+Directory Services,SLAHOLD,15.218421052615794
+GC WAN,PENDINGCHG,15.127777777666665
+Mainframe,QUEUED,15.086767363811015
+Midrange - Storage and Virtualization,PENDING,14.912222222426667
+Toll-free Voice,INPROG,14.833333333
+Other - Data Centre,INPROG,14.668939393950922
+Middleware,PENDING,14.158490565979243
+IBN - Cabling - Install and Material,QUEUED,14.048968512518575
+Other - Service Management,QUEUED,13.93343739811839
+GC WAN,PENDING,13.835833333415005
+IBN - GC LAN,PENDINGREV,13.769444444383332
+GC WAN,PENDINGCUS,13.590151515247726
+Data Centre Facilities Management,PENDINGCUS,13.05
+Directory Services,HISTEDIT,13.037500000075
+GC WAN,PENDINGREV,12.550833333184999
+Mainframe,INPROG,12.362085514850978
+Secure Remote Access,PENDINGREV,11.933333333
+Workplace Technology Services,QUEUED,11.799733759338666
+GC WAN,INPROG,11.70211754866759
+Conferencing - Videoconferencing,INPROG,11.62000000004
+HPC -Big Data Exchange,INPROG,11.452285618941353
+Midrange - Windows -X86,QUEUED,11.238056368571273
+Email,AWAITVEN,11.1562499999625
+Midrange,PENDINGCUS,11.118181818209091
+Facilities - Data Centre Facilities Racking & Stacking,AWAITVEN,11.0566666666
+Mainframe,AWAITCUS,10.792156862682354
+Other - Telecom & Network,QUEUED,10.513742690050588
+Storage,AWAITVEN,10.48999999994
+IBN - GC Wi-Fi,QUEUED,10.296351818441924
+Facilities - Data Centre Facilities Racking & Stacking,QUEUED,9.955833333325
+Database,AWAITCUS,9.790000000060001
+IBN - GC LAN,AWAITVEN,9.68463203467403
+Directory Services,AWAITCUS,9.655555555433333
+Mainframe,PENDING,9.60833333315
+Storage,INPROG,9.514192708333209
+HPC - Interaction & Visualization,SLAHOLD,9.286206896548276
+GC WAN,QUEUED,9.268931728304702
+Government of Canada Managed Security Service,QUEUED,8.637037037033334
+Government of Canada Managed Security Service,AWAITCUS,8.5166666667
+Government of Canada Managed Security Service,INPROG,8.425000000016666
+Email,INPROG,8.256646216745402
+Other - Internal Services & Strategy,SLAHOLD,8.0333333333
+Mobile - Enterprise Mobile Device Management (EMDM),INPROG,7.868573446353393
+IBN - Cabling - Install and Material,INPROG,7.791111111120001
+Other - Internal Services & Strategy,INPROG,7.783333333333334
+Middleware,INPROG,7.747991669158969
+Mobile - Enterprise Mobile Device Management (EMDM),QUEUED,7.624451345762486
+Cloud Brokering,INPROG,7.478494623652689
+Midrange - Storage and Virtualization,PENDINGVEN,7.3833333333
+Midrange - Windows -X86,INPROG,7.290178205261304
+Other - Data Centre,AWAITCHG,7.1833333333
+Contact Centre,QUEUED,6.928014184393619
+Secure Remote Access,PENDINGVEN,6.7333333333
+Directory Services,PENDING,6.633333333433334
+Middleware,QUEUED,6.361399243663248
+Storage,SLAHOLD,5.661538461538461
+Storage - File,SLAHOLD,5.574999999999999
+Secure Remote Access,PENDING,5.48333333335
+Secure Remote Access,SLAHOLD,5.469230769207693
+Midrange - Windows -X86,HISTEDIT,4.729166666575
+Midrange,PENDINGVEN,4.6
+IBN - GC LAN,PENDINGVEN,4.4624999999999995
+Midrange - Storage and Virtualization,INPROG,4.385937499990625
+Cloud Brokering,QUEUED,4.276418439712765
+HPC - Interaction & Visualization,INPROG,4.105771006454854
+HPC - Interaction & Visualization,PENDINGREV,3.9
+Cloud Brokering,SLAHOLD,3.2619047619142854
+Fixed - VoIP,QUEUED,3.05
+Storage - File,INPROG,3.0361111110333336
+Internal Credential Management (ICM),SLAHOLD,2.887499999925
+IBN - Data Centre Network,PENDINGREV,2.75
+Other - Service Management,PENDINGCHG,2.6777777777666665
+Middleware,AWAITVEN,2.5972222222166668
+Internal Credential Management (ICM),INPROG,2.5541666666666667
+Other - Telecom & Network,AWAITCHG,2.0222222222166666
+Facilities - Data Centre Facilities Power & Space,AWAITCHG,1.8333333333
+Storage - File,QUEUED,1.578431372552941
+IBN - GC LAN,PENDINGCUS,1.3944444444416666
+Email,SLAHOLD,1.15
+High-performance Computing,QUEUED,0.9609184570991468
+HPC -Big Data Exchange,QUEUED,0.7287981859441284
+Other - Service Management,RESOLVED,0.6721675084133965
+Conferencing - Videoconferencing,SLAHOLD,0.5916666667
+Database,AWAITCHG,0.48333333335000006
+HPC - Interaction & Visualization,QUEUED,0.3516915422916421
+GC WAN,RESOLVED,0.19914194692086373
+Directory Services,PENDINGCUS,0.15
+Database,SLAHOLD,0.09444444443333333
+Storage,AWAITCHG,0.07222222223333334
+High-performance Computing,RESOLVED,0.052708658893749254
+HPC -Big Data Exchange,RESOLVED,0.03784484546798383
+IBN - Data Centre Network,PENDING,0.0333333333
+HPC - Interaction & Visualization,PENDING,0.0333333333
+HPC - Interaction & Visualization,RESOLVED,0.027008032128614457
+Other - Service Management,HISTEDIT,0.023809523814285714
+Email,RESOLVED,0.023094688221709007
+Facilities - Data Centre Facilities Power & Space,RESOLVED,0.01818181818181818
+Middleware,RESOLVED,0.017335048649933456
+Managed Secure File Transfer,SLAHOLD,0.01333333336
+GC WAN,HISTEDIT,0.0125
+High-performance Computing,HISTEDIT,0.0111111111
+GC WAN National,HISTEDIT,0.00833333335
+Managed Secure File Transfer,INPROG,0.00333333334
+Midrange - Windows -X86,RESOLVED,0.001475208014943114
+Facilities - Data Centre Facilities Racking & Stacking,RESOLVED,0.0012820512826923077
+Other - Security,RESOLVED,0.0008928571428571428
+IBN - GC Wi-Fi,RESOLVED,9.439899307740719e-05
+Storage,RESOLVED,6.0060059999999995e-05
+Cloud Brokering,RESOLVED,0.0
+Other - Telecom & Network,RESOLVED,0.0
+Storage - File,RESOLVED,0.0
+Contact Centre,AWAITCHG,0.0
+Contact Centre,AWAITVEN,0.0
+Conferencing - Videoconferencing,RESOLVED,0.0
+Secure Remote Access,RESOLVED,0.0
+Workplace Technology Services,RESOLVED,0.0
+Midrange - Windows -X86,NEW,0.0
+Contact Centre,RESOLVED,0.0
+Midrange,RESOLVED,0.0
+IBN - Cabling - Install and Material,RESOLVED,0.0
+IBN - Data Centre Network,RESOLVED,0.0
+IBN - GC LAN,RESOLVED,0.0
+Internal Credential Management (ICM),RESOLVED,0.0
+Intra-building Network Services,RESOLVED,0.0
+Government of Canada Managed Security Service,RESOLVED,0.0
+Mainframe,HISTEDIT,0.0
+Mainframe,RESOLVED,0.0
+GC WAN National,RESOLVED,0.0
+Mainframe - zOS & zLinux,RESOLVED,0.0
+Managed Secure File Transfer,RESOLVED,0.0
+Middleware,HISTEDIT,0.0
+Middleware,PENDINGVEN,0.0
+Fixed Line,RESOLVED,0.0
+Contact Centre,SLAHOLD,0.0
+Midrange - Storage and Virtualization,PENDINGCHG,0.0
+Fixed Line,AWAITVEN,0.0
+Midrange - Storage and Virtualization,RESOLVED,0.0
+Firewall,RESOLVED,0.0
+Mobile - Enterprise Mobile Device Management (EMDM),AWAITCUS,0.0
+Mobile - Enterprise Mobile Device Management (EMDM),RESOLVED,0.0
+Other - Data Centre,RESOLVED,0.0
+Other - Internal Services & Strategy,AWAITCUS,0.0
+Directory Services,RESOLVED,0.0
+Other - Internal Services & Strategy,RESOLVED,0.0
+Other - Project Management & Delivery,RESOLVED,0.0
+Database,RESOLVED,0.0
+Data Centre Facilities Management,RESOLVED,0.0
+IBN - GC Wi-Fi,PENDINGREV,0.0
+Cloud Brokering,AWAITCHG,
+Cloud Brokering,CLOSED,
+Conferencing - Videoconferencing,CLOSED,
+Contact Centre,CLOSED,
+Data Centre Facilities Management,AWAITCUS,
+Data Centre Facilities Management,CLOSED,
+Database,CLOSED,
+Directory Services,AWAITCHG,
+Directory Services,CLOSED,
+Email,CLOSED,
+Facilities - Data Centre Facilities Power & Space,CLOSED,
+Facilities - Data Centre Facilities Racking & Stacking,CLOSED,
+Firewall,CLOSED,
+Fixed Line,CLOSED,
+GC WAN,CLOSED,
+GC WAN National,CLOSED,
+Government of Canada Managed Security Service,CLOSED,
+HPC - Interaction & Visualization,CLOSED,
+HPC -Big Data Exchange,CLOSED,
+High-performance Computing,CLOSED,
+IBN - Cabling - Install and Material,CLOSED,
+IBN - Data Centre Network,CLOSED,
+IBN - GC LAN,CLOSED,
+IBN - GC Wi-Fi,CLOSED,
+Internal Credential Management (ICM),CLOSED,
+Intra-building Network Services,CLOSED,
+Mainframe,CLOSED,
+Mainframe - zOS & zLinux,CLOSED,
+Managed Secure File Transfer,CLOSED,
+Middleware,CLOSED,
+Midrange,CLOSED,
+Midrange - Storage and Virtualization,CLOSED,
+Midrange - Windows -X86,CLOSED,
+Mobile - Enterprise Mobile Device Management (EMDM),CLOSED,
+Other - Data Centre,CLOSED,
+Other - Internal Services & Strategy,CLOSED,
+Other - Project Management & Delivery,CLOSED,
+Other - Security,CLOSED,
+Other - Service Management,CLOSED,
+Other - Telecom & Network,CLOSED,
+Secure Remote Access,AWAITCHG,
+Secure Remote Access,CLOSED,
+Storage,CLOSED,
+Storage - File,CLOSED,
+Workplace Technology Services,CLOSED,
