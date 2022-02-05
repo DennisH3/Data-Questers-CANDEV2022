@@ -32,12 +32,12 @@ Note: The original data used for this challenge is not posted in this repository
 - anova_results.ipynb: cleans and resaves the output files from correlation_test.Rmd
 - basic_statistics.ipynb: contains code that answers all the average time questions. Included and modified code from reassignment.ipynb to get basic statistics for this attribute. Also compares just, excluding, and including Event Management Tickets averages.
 - correlation_test.Rmd: contains code that answers all the correlation questions using regression analysis (linear models and ANOVA)
-- reassignment.ipynb: contains code that calculates the number of times a ticket is reassigned.
+- reassignment.ipynb: contains code that calculates the number of times a ticket is reassigned
 
 ## Files in Google Drive
 - merged_ssc_ticket_data.csv: a data set that combines INCIDENTS.csv and INCIDENTS_OWNER_HISTORY.csv into one file
 - ssc_data_no_reassignment.csv (Extension): a data set that only has tickets that have NOT been reassigned based on merged_ssc_ticket_data.csv
-- reassignment.xlsx: analysis of ticket reassignment completed in Excel.
+- reassignment.xlsx: analysis of ticket reassignment completed in Excel
 
 # Dependencies
 The environments used were Python, RStudio, and Excel
@@ -58,7 +58,7 @@ The environments used were Python, RStudio, and Excel
 - Rstudio was used for calculating correlations using linear models. Finding correlations with categorical attributes and numerical attributes is difficult. The `lm()` function automatically converts categorical attributes to dummy variables (1-hot encoded) and then performs a regression with the target attribute (Restore time - numerical). `Anova()` is a special linear model where the attributes are categorical. A p-value of <0.05 illustrates that the feature's relationship is significant to the target attribute. The sign of the intercept illustrates whether the attributes are negatively or positively correlated. RStudio was also used to generate visualizations
 - Excel was used to do correlation analysis of number of times a ticket is reassigned with restore time. Excel was also used to produce visualizations
 
-R and Excel were the chosen visualization tools as they were easily accessible by the team members.
+R and Excel were the chosen visualization tools as they were easily accessible by the team members
 
 ## Next Steps
 Ideally, the solution should have been a 2-3 page interactive dashboard that does the calculations in basic_statistics.ipynb, correlation analysis, and a comparison of the major differences between the data including and excluding EVENT MANAGEMENT tickets (could be done in first sheet)  
