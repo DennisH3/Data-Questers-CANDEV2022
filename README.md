@@ -61,18 +61,18 @@ The environments used were Python, RStudio, and Excel
 R and Excel were the chosen visualization tools as they were easily accessible by the team members.
 
 ## Next Steps
-Ideally, the solution should have been a 2-3 page interactive dashboard that does the calculations in basic_statistics.ipynb, correlation analysis, and a comparison of the major differences between the data including and excluding EVENT MANAGEMENT tickets (could be done in first sheet)
+Ideally, the solution should have been a 2-3 page interactive dashboard that does the calculations in basic_statistics.ipynb, correlation analysis, and a comparison of the major differences between the data including and excluding EVENT MANAGEMENT tickets (could be done in first sheet)  
 
 
 # Team Members and Contributions
-Tejashwar Singh Banafar, Saint Mary's University: Team leader
+Tejashwar Singh Banafar, Saint Mary's University: Team leader  
 Technical skills: SQL
 
-Dennis Huynh, Queen's University: Focused on answering all the average questions (author of basic_statistics.ipynb and anova_results.ipynb). Calculated the correlations between specified attributes using linear models (author of correlation_test.Rmd). Responsible for the GitHub
+Dennis Huynh, Queen's University: Focused on answering all the average questions (author of basic_statistics.ipynb and anova_results.ipynb). Calculated the correlations between specified attributes using linear models (author of correlation_test.Rmd). Responsible for the GitHub  
 Technical skills: Python, R, PowerBI, Tableau, and Git/GitHub
 
-Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb and anova_results.ipynb
+Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb and anova_results.ipynb  
 Technical skills: R
 
-Fangyi Yu, Ontario Tech University: Focused on answering all the questions regarding reassignment of tickets (author of reassignment.ipynb) as well as correlation questions. Made visualizations in Excel
+Fangyi Yu, Ontario Tech University: Focused on answering all the questions regarding reassignment of tickets (author of reassignment.ipynb) as well as correlation questions. Made visualizations in Excel  
 Technical skills: Python, Excel
