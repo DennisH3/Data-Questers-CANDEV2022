@@ -71,7 +71,7 @@ Technical skills: SQL
 Dennis Huynh, Queen's University: Focused on answering all the average questions (author of basic_statistics.ipynb and anova_results.ipynb). Calculated the correlations between specified attributes using linear models (author of correlation_test.Rmd). Responsible for the GitHub  
 Technical skills: Python, R, PowerBI, Tableau, and Git/GitHub
 
-Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb and anova_results.ipynb  
+Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb,anova_results.ipynb and correlation_test.Rmd. Used Rmarkdown specifically for visualization.    
 Technical skills: R
 
 Fangyi Yu, Ontario Tech University: Focused on answering all the questions regarding reassignment of tickets (author of reassignment.ipynb) as well as correlation questions. Made visualizations in Excel  
