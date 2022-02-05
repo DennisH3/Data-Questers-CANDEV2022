@@ -1,0 +1,163 @@
+PRIORITY,service,reassign_num
+Low,Other - Service Management,8404
+Medium,GC WAN,3159
+Low,GC WAN,3068
+Low,Midrange,2972
+Medium,Other - Service Management,2935
+Low,Middleware,2686
+Low,Midrange - Windows -X86,2584
+Medium,IBN - GC LAN,1985
+Low,IBN - GC LAN,1984
+Medium,Mainframe,1528
+Medium,Middleware,1397
+Medium,Midrange - Windows -X86,1198
+Low,Directory Services,1163
+Low,Mobile - Mobile Device - Government Cellular Services,1064
+Low,Fixed Line,897
+Low,High-performance Computing,855
+Low,Email,758
+Low,Other - Security,747
+Medium,Firewall,712
+Low,Other - Data Centre,679
+Medium,Midrange,654
+Low,Firewall,637
+Low,Mobile - Voice & Data,629
+Low,Contact Centre,551
+Medium,Email,547
+Low,Conferencing - Videoconferencing,508
+Low,Fixed - PBX,477
+Low,Secure Remote Access,458
+Low,Fixed - VoIP,438
+Low,Mobile - Enterprise Mobile Device Management (EMDM),432
+Medium,Other - Security,420
+Low,Storage - File,409
+Medium,Directory Services,388
+Low,Storage,387
+High,Middleware,367
+Low,Data Centre Facilities Management,359
+Low,Intra-building Network Services,349
+Low,HPC -Big Data Exchange,342
+Medium,Storage,334
+Medium,Data Centre Facilities Management,330
+Low,IBN - Data Centre Network,329
+Low,Internal Credential Management (ICM),324
+Medium,IBN - Data Centre Network,304
+Low,Mainframe,300
+Medium,Secure Remote Access,299
+Low,Other - Internal Services & Strategy,285
+Low,IBN - Cabling - Install and Material,274
+Low,IBN - GC Wi-Fi,264
+Low,HPC - Interaction & Visualization,259
+Medium,Contact Centre,253
+Medium,High-performance Computing,250
+Medium,Storage - File,245
+Medium,Other - Data Centre,244
+High,Other - Service Management,213
+Medium,Fixed Line,210
+Medium,Intra-building Network Services,180
+Medium,Mobile - Enterprise Mobile Device Management (EMDM),177
+High,Data Centre Facilities Management,173
+Low,Database,173
+Medium,Facilities - Data Centre Facilities Racking & Stacking,170
+Medium,Fixed - PBX,167
+High,GC WAN,158
+High,Midrange - Windows -X86,133
+Low,Facilities - Data Centre Facilities Racking & Stacking,129
+Medium,Conferencing - Videoconferencing,125
+High,Midrange,123
+High,IBN - GC LAN,122
+Medium,IBN - GC Wi-Fi,116
+Medium,Fixed - VoIP,115
+Medium,GC WAN National,113
+Low,Government of Canada Managed Security Service,106
+Medium,Facilities - Data Centre Facilities Power & Space,98
+Low,Facilities - Data Centre Facilities Power & Space,91
+Medium,Database,84
+Medium,HPC -Big Data Exchange,83
+High,Contact Centre,73
+Medium,IBN - Cabling - Install and Material,69
+Medium,HPC - Interaction & Visualization,69
+Medium,Toll-free Voice,65
+High,Firewall,65
+High,Other - Security,59
+Medium,Mobile - Mobile Device - Government Cellular Services,57
+Low,GC WAN National,57
+Low,Midrange - Storage and Virtualization,55
+Low,Other - Telecom & Network,52
+Medium,Other - Internal Services & Strategy,51
+High,Mobile - Enterprise Mobile Device Management (EMDM),50
+Medium,Mobile - Voice & Data,48
+Low,Other - Project Management & Delivery,46
+Low,Mobile Devices,41
+High,Directory Services,40
+High,Email,40
+Low,Toll-free Voice,39
+Medium,Internal Credential Management (ICM),39
+High,IBN - Data Centre Network,30
+High,Secure Remote Access,29
+Low,Cloud Brokering,29
+Low,Distributed Print,28
+Medium,Government of Canada Managed Security Service,25
+Medium,Other - Project Management & Delivery,23
+Medium,GC WAN International,22
+High,Intra-building Network Services,20
+Low,Workplace Technology Services,19
+High,Storage,19
+High,Fixed Line,18
+High,Other - Data Centre,17
+Low,Satellite,16
+High,Database,16
+Medium,Data Centre Services,16
+Medium,Workplace Technology Services,16
+Low,Managed Secure File Transfer,14
+High,Fixed - VoIP,13
+Low,Mainframe - zOS & zLinux,12
+Medium,Midrange - Storage and Virtualization,12
+High,Storage - File,11
+Low,Data Centre Services,11
+High,High-performance Computing,10
+Medium,Classified Infrastructure - GCSI - Hosting Environment,10
+Low,Fixed - Key Systems and Interchange,10
+Medium,Other - Telecom & Network,10
+Medium,Satellite,10
+Medium,Distributed Print,9
+Medium,Cloud Brokering,7
+High,Fixed - PBX,7
+High,IBN - GC Wi-Fi,6
+Low,Fixed - Centrex,6
+Medium,-1,6
+Medium,Managed Secure File Transfer,6
+Low,GC WAN International,5
+Low,Other - Account & Service Delivery Management,5
+High,Internal Credential Management (ICM),5
+High,Mainframe,5
+Medium,Mainframe - zOS & zLinux,5
+Low,WTD - Hardware,4
+High,Midrange - Storage and Virtualization,4
+High,Mobile - Mobile Device - Government Cellular Services,4
+Low,-1,4
+High,Other - Internal Services & Strategy,4
+Medium,Mobile Devices,4
+High,Conferencing - Videoconferencing,3
+High,Facilities - Data Centre Facilities Power & Space,3
+High,HPC - Interaction & Visualization,3
+Low,Classified Infrastructure - GCSI - Hosting Environment,3
+Medium,Fixed - Centrex,3
+High,Government of Canada Managed Security Service,2
+High,Toll-free Voice,2
+High,Facilities - Data Centre Facilities Racking & Stacking,2
+High,HPC -Big Data Exchange,2
+High,GC WAN National,1
+Medium,IT Continuity Support Service,1
+High,IBN - Cabling - Install and Material,1
+High,Mainframe - zOS & zLinux,1
+High,Mobile - Voice & Data,1
+High,Mobile Devices,1
+High,Other - Account & Service Delivery Management,1
+Low,IBN - Cabling,1
+Low,Internet,1
+Medium,Fixed - Calling Card,1
+High,Cloud Brokering,1
+Low,Solutions Integration Service (SIS),1
+Low,To be determined,1
+High,-1,1

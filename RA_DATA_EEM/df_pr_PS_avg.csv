@@ -1,0 +1,86 @@
+PRIORITY,PARENT_SERVICE,reassign_num
+High,Cloud Brokering,8.0
+Medium,IT Continuity Support Service,3.0
+High,Mainframe,2.8
+Low,WTD Provisioning,2.1666666666666665
+Low,Solutions Integration Service (SIS),2.0
+High,Internal Credential Management (ICM),2.0
+High,Firewall,1.8481012658227849
+High,Directory Services,1.7209302325581395
+High,Other Activities,1.4265129682997117
+Low,Internal Credential Management (ICM),1.3181818181818181
+High,Database,1.3
+Medium,Satellite,1.25
+Medium,Other Activities,1.2176397071951437
+High,Intra-building Network Services,1.1977186311787071
+Low,Satellite,1.1666666666666667
+Medium,Directory Services,1.1594634873323397
+Low,Cloud Brokering,1.1428571428571428
+High,Mobile Devices,1.0980392156862746
+Low,Other Activities,1.080393487109905
+High,Storage,1.0555555555555556
+High,Secure Remote Access,1.0246913580246915
+Medium,Internal Credential Management (ICM),1.009433962264151
+Low,Internet,1.0
+High,Midrange,0.9581589958158996
+Medium,Mobile Devices,0.90311986863711
+Medium,Workplace Technology Services,0.9
+Low,Toll-free Voice,0.8977272727272727
+Medium,Managed Secure File Transfer,0.8666666666666667
+Low,Intra-building Network Services,0.8647219105625902
+High,Conferencing Services,0.8571428571428571
+Medium,Classified Infrastructure,0.8260869565217391
+Medium,Intra-building Network Services,0.8209326424870467
+Low,Directory Services,0.7802659202239328
+High,Fixed Line,0.7654320987654321
+Low,Government of Canada Managed Security Service,0.7511961722488039
+Medium,Database,0.7465437788018433
+Medium,Government of Canada Managed Security Service,0.7419354838709677
+Medium,Email,0.7283511269276394
+Low,Firewall,0.719954648526077
+Low,Database,0.7022653721682848
+Medium,Toll-free Voice,0.6985294117647058
+Medium,Firewall,0.6915538964069062
+Medium,Cloud Brokering,0.6538461538461539
+Low,Managed Secure File Transfer,0.6274509803921569
+Low,GC WAN,0.6257461201750896
+Medium,Midrange,0.6049580167932826
+High,GC WAN,0.6014492753623188
+Low,Midrange,0.570173646578141
+High,Email,0.5364238410596026
+Low,Secure Remote Access,0.5313568985176739
+Medium,Mainframe,0.5304347826086957
+Low,Storage,0.5089869281045751
+High,Data Centre Facilities Management,0.504950495049505
+High,High-performance Computing,0.5
+High,Government of Canada Managed Security Service,0.5
+Medium,Fixed Line,0.4887810794420861
+Medium,GC WAN,0.48000406008932195
+Low,Classified Infrastructure,0.47368421052631576
+Low,Middleware,0.46798542425819883
+Medium,High-performance Computing,0.4613315400134499
+High,Middleware,0.4606741573033708
+Medium,Secure Remote Access,0.45829675153643545
+Medium,Data Centre Facilities Management,0.44991108476585656
+Medium,Storage,0.43625
+Medium,Middleware,0.4232922732362822
+Low,Workplace Technology Services,0.4117647058823529
+Low,Data Centre Facilities Management,0.4049145299145299
+Low,Email,0.3688233688233688
+Medium,Conferencing Services,0.36036036036036034
+Low,Fixed Line,0.35567449215423913
+Low,Mobile Devices,0.35161493288590606
+Low,Conferencing Services,0.31145584725536996
+Medium,Distributed Print,0.29310344827586204
+Medium,Contact Centre,0.29143897996357016
+Low,Mainframe,0.2904808635917566
+High,Toll-free Voice,0.2857142857142857
+Low,Distributed Print,0.2808988764044944
+High,Contact Centre,0.21935483870967742
+Low,High-performance Computing,0.2039128004471772
+Low,Contact Centre,0.1914455626715462
+Medium,Facilities-as-a-service (FaaS),0.0
+Medium,Bulk Print,0.0
+Low,Bulk Print,0.0
+High,Distributed Print,0.0
+High,Classified Infrastructure,0.0

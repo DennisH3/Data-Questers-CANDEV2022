@@ -1,0 +1,171 @@
+PRIORITY,service,reassign_num
+High,Cloud Brokering,8.0
+High,-1,3.0
+Medium,IT Continuity Support Service,3.0
+High,Mainframe,2.6666666666666665
+Low,WTD - Hardware,2.1666666666666665
+High,IBN - Data Centre Network,2.081081081081081
+High,Other - Account & Service Delivery Management,2.0
+Low,To be determined,2.0
+Low,Solutions Integration Service (SIS),2.0
+High,Internal Credential Management (ICM),2.0
+Medium,Fixed - Calling Card,2.0
+High,Mobile Devices,2.0
+Low,Other - Account & Service Delivery Management,1.8333333333333333
+Medium,Mobile Devices,1.8
+High,Directory Services,1.6415094339622642
+High,Firewall,1.5940594059405941
+High,Other - Security,1.5681818181818181
+Medium,-1,1.5384615384615385
+High,Storage,1.4516129032258065
+High,Midrange - Storage and Virtualization,1.4
+High,Other - Service Management,1.3924050632911393
+Medium,Fixed - Centrex,1.3333333333333333
+High,Facilities - Data Centre Facilities Racking & Stacking,1.3333333333333333
+Low,Internal Credential Management (ICM),1.3186582809224319
+High,Database,1.2857142857142858
+High,Mobile - Enterprise Mobile Device Management (EMDM),1.2658227848101267
+Low,Mobile Devices,1.2537313432835822
+High,Fixed - PBX,1.25
+Medium,Satellite,1.25
+Medium,IBN - Cabling - Install and Material,1.2323232323232323
+High,Midrange,1.2297297297297298
+Medium,Mobile - Mobile Device - Government Cellular Services,1.2258064516129032
+Medium,GC WAN International,1.2244897959183674
+Low,Satellite,1.1666666666666667
+Low,Fixed - PBX,1.1505376344086022
+Low,Intra-building Network Services,1.1504787961696306
+Medium,Intra-building Network Services,1.148997134670487
+Medium,Directory Services,1.094805194805195
+Medium,Other - Project Management & Delivery,1.0816326530612246
+High,IBN - GC Wi-Fi,1.0769230769230769
+Medium,Mobile - Enterprise Mobile Device Management (EMDM),1.053125
+High,IBN - GC LAN,1.0413223140495869
+Low,Other - Service Management,1.039636311976133
+Low,Fixed - VoIP,1.0293685756240822
+Medium,Fixed - PBX,1.0260869565217392
+High,Secure Remote Access,1.0246913580246915
+Medium,Internal Credential Management (ICM),1.0185185185185186
+High,IBN - Cabling - Install and Material,1.0
+Low,Fixed - Centrex,1.0
+Low,Internet,1.0
+Low,IBN - Cabling,1.0
+High,Mainframe - zOS & zLinux,1.0
+Medium,Workplace Technology Services,0.967741935483871
+Medium,Fixed - VoIP,0.9603960396039604
+Medium,Other - Service Management,0.9562560308780959
+Low,GC WAN International,0.9333333333333333
+Medium,IBN - Data Centre Network,0.909541511771995
+High,Midrange - Windows -X86,0.9051383399209486
+Low,Toll-free Voice,0.8977272727272727
+Medium,Managed Secure File Transfer,0.8666666666666667
+High,Conferencing - Videoconferencing,0.8571428571428571
+Low,Other - Telecom & Network,0.8518518518518519
+High,Data Centre Facilities Management,0.8326359832635983
+Medium,Classified Infrastructure - GCSI - Hosting Environment,0.8260869565217391
+Low,IBN - Cabling - Install and Material,0.8150572831423896
+High,Other - Data Centre,0.8048780487804879
+Medium,Email,0.8012367491166078
+High,Storage - File,0.7931034482758621
+Medium,Database,0.7808219178082192
+Low,Mobile - Enterprise Mobile Device Management (EMDM),0.7636363636363637
+Medium,Government of Canada Managed Security Service,0.7419354838709677
+High,Fixed Line,0.7380952380952381
+Low,Cloud Brokering,0.7352941176470589
+Medium,IBN - GC LAN,0.7323819978046103
+Low,Government of Canada Managed Security Service,0.7235023041474654
+Low,Directory Services,0.7012195121951219
+High,Mobile - Mobile Device - Government Cellular Services,0.7
+Medium,Toll-free Voice,0.6985294117647058
+High,Fixed - VoIP,0.6875
+Medium,Firewall,0.6844464365755266
+Low,Mobile - Mobile Device - Government Cellular Services,0.6699570815450644
+Low,Facilities - Data Centre Facilities Racking & Stacking,0.6656050955414012
+Low,Other - Security,0.6550572519083969
+Medium,Cloud Brokering,0.6538461538461539
+Medium,Other - Security,0.6254098360655738
+Medium,Data Centre Services,0.625
+Low,Data Centre Services,0.625
+High,Intra-building Network Services,0.6226415094339622
+Low,IBN - Data Centre Network,0.6132075471698113
+Medium,Facilities - Data Centre Facilities Racking & Stacking,0.6096938775510204
+Medium,Other - Data Centre,0.5976714100905562
+Medium,IBN - GC Wi-Fi,0.5794871794871795
+High,GC WAN,0.5632411067193676
+Low,Managed Secure File Transfer,0.5614035087719298
+Low,Fixed - Key Systems and Interchange,0.56
+Low,Firewall,0.5559467918622848
+High,Facilities - Data Centre Facilities Power & Space,0.5555555555555556
+Low,Other - Internal Services & Strategy,0.5461065573770492
+Medium,Mainframe,0.5345683096261992
+High,Email,0.525974025974026
+Low,Secure Remote Access,0.5196241017136539
+Low,IBN - GC LAN,0.5107923314117174
+Low,Database,0.5076923076923077
+Medium,Other - Internal Services & Strategy,0.5072463768115942
+High,Government of Canada Managed Security Service,0.5
+Low,-1,0.5
+High,HPC - Interaction & Visualization,0.5
+Medium,Mobile - Voice & Data,0.4895833333333333
+Medium,Midrange - Windows -X86,0.48946584379655245
+Low,Other - Project Management & Delivery,0.489010989010989
+Low,Storage - File,0.4803548795944233
+Low,Classified Infrastructure - GCSI - Hosting Environment,0.47368421052631576
+Low,Storage,0.46877296105804556
+Medium,GC WAN National,0.458128078817734
+Medium,Midrange - Storage and Virtualization,0.45652173913043476
+Medium,Storage,0.4525993883792049
+Medium,Midrange,0.44729444834855936
+High,Contact Centre,0.4449760765550239
+Medium,Storage - File,0.42931034482758623
+Low,Midrange - Storage and Virtualization,0.4221105527638191
+Medium,Data Centre Facilities Management,0.4205685618729097
+Medium,High-performance Computing,0.4131578947368421
+High,Middleware,0.4067952249770432
+Medium,GC WAN,0.4065255005355524
+Low,Data Centre Facilities Management,0.4020172910662824
+Low,Middleware,0.39947437582128775
+Medium,Facilities - Data Centre Facilities Power & Space,0.38292011019283745
+Medium,Mainframe - zOS & zLinux,0.38095238095238093
+Low,Midrange,0.37717171717171716
+Low,GC WAN National,0.3682008368200837
+Medium,Conferencing - Videoconferencing,0.362657091561939
+Low,Other - Data Centre,0.3579898362507058
+Low,GC WAN,0.3533003555418148
+Low,Email,0.3504959848842702
+Medium,Contact Centre,0.3440677966101695
+High,High-performance Computing,0.3404255319148936
+Low,Facilities - Data Centre Facilities Power & Space,0.33178654292343385
+Medium,HPC - Interaction & Visualization,0.3234567901234568
+Medium,Middleware,0.3177635006077444
+Low,Conferencing - Videoconferencing,0.31603960396039604
+High,HPC -Big Data Exchange,0.3125
+Medium,Fixed Line,0.30528052805280526
+Medium,Distributed Print,0.29310344827586204
+Medium,Secure Remote Access,0.2866700977869274
+High,Toll-free Voice,0.2857142857142857
+Low,Distributed Print,0.2808988764044944
+High,Other - Internal Services & Strategy,0.23809523809523808
+Low,Fixed Line,0.22493887530562348
+High,GC WAN National,0.2
+Low,HPC - Interaction & Visualization,0.1930243669374104
+Low,Contact Centre,0.1885245901639344
+Low,Mainframe,0.18531128404669261
+Medium,HPC -Big Data Exchange,0.16832779623477298
+Low,Midrange - Windows -X86,0.16381522668947818
+Low,Mobile - Voice & Data,0.1614307931570762
+Low,IBN - GC Wi-Fi,0.15087903437418002
+Low,Mainframe - zOS & zLinux,0.1414141414141414
+Low,High-performance Computing,0.11423047827183323
+Low,Workplace Technology Services,0.1101123595505618
+Low,HPC -Big Data Exchange,0.09202971968929416
+High,Mobile - Voice & Data,0.09090909090909091
+Medium,Other - Telecom & Network,0.03051643192488263
+High,GC WAN International,0.0
+Low,Bulk Print,0.0
+High,Distributed Print,0.0
+Low,Service Management - Enterprise Control Center (ECC),0.0
+Medium,Bulk Print,0.0
+Medium,Faciltiies-as-a-service (FaaS),0.0
+Medium,Fixed - Key Systems and Interchange,0.0
+High,Classified Infrastructure - GCSI - Hosting Environment,0.0

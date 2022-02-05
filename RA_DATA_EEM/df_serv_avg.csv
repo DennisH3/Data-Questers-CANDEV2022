@@ -1,0 +1,67 @@
+service,reassign_num
+IT Continuity Support Service,3.0
+WTD - Hardware,2.1666666666666665
+Solutions Integration Service (SIS),2.0
+To be determined,2.0
+Fixed - Calling Card,2.0
+Other - Account & Service Delivery Management,1.8571428571428572
+Other - Service Management,1.519623743107363
+IBN - Data Centre Network,1.3209494324045408
+Intra-building Network Services,1.3165938864628821
+Mobile Devices,1.3108108108108107
+-1,1.3
+Internal Credential Management (ICM),1.265536723163842
+Satellite,1.1904761904761905
+IBN - Cabling - Install and Material,1.1751968503937007
+GC WAN International,1.121212121212121
+Fixed - PBX,1.1155778894472361
+Fixed - Centrex,1.1111111111111112
+Cloud Brokering,1.0363636363636364
+Fixed - VoIP,1.0021857923497268
+Internet,1.0
+IBN - Cabling,1.0
+Mobile - Enterprise Mobile Device Management (EMDM),0.996386630532972
+Directory Services,0.8628219484882419
+IBN - GC LAN,0.7626217891939769
+Toll-free Voice,0.7619047619047619
+Government of Canada Managed Security Service,0.7454545454545455
+Database,0.7417582417582418
+Firewall,0.7270446562970396
+Other - Security,0.7136827295110798
+Mobile - Mobile Device - Government Cellular Services,0.6913275791204274
+Managed Secure File Transfer,0.6818181818181818
+Other - Telecom & Network,0.6666666666666666
+Midrange,0.6465246245197346
+Classified Infrastructure - GCSI - Hosting Environment,0.6363636363636364
+Data Centre Services,0.625
+Facilities - Data Centre Facilities Racking & Stacking,0.6155015197568389
+Other - Project Management & Delivery,0.6043478260869565
+Midrange - Windows -X86,0.5815752461322081
+IBN - GC Wi-Fi,0.5436893203883495
+GC WAN,0.5297558321431001
+Other - Internal Services & Strategy,0.5262718932443703
+Fixed - Key Systems and Interchange,0.5185185185185185
+Secure Remote Access,0.5168123739071957
+Storage,0.5058275058275058
+GC WAN National,0.497131931166348
+Workplace Technology Services,0.48201438848920863
+Storage - File,0.4588320638375045
+Middleware,0.447408152994464
+Email,0.43933863001932577
+Other - Data Centre,0.4122590212555611
+Data Centre Facilities Management,0.39867549668874175
+Midrange - Storage and Virtualization,0.36809815950920244
+Facilities - Data Centre Facilities Power & Space,0.35278154681139756
+Mainframe,0.32695810564663025
+Conferencing - Videoconferencing,0.3215214564369311
+High-performance Computing,0.31114915471859617
+Mainframe - zOS & zLinux,0.2926829268292683
+Distributed Print,0.2815126050420168
+Fixed Line,0.2390588808972327
+HPC - Interaction & Visualization,0.23515876668200644
+Contact Centre,0.21173333333333333
+Mobile - Voice & Data,0.17081260364842454
+HPC -Big Data Exchange,0.15581908439051295
+Faciltiies-as-a-service (FaaS),0.0
+Service Management - Enterprise Control Center (ECC),0.0
+Bulk Print,0.0

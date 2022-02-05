@@ -1,0 +1,112 @@
+---
+title: "Correlation Tests - LM and ANOVA Approach"
+output: html_notebook
+author: Dennis Huynh
+date: "02/05/2022"
+---
+
+```{r, echo=FALSE, warning=FALSE}
+# Load dependencies
+library(tidyverse)
+library(data.table)
+
+install.packages("car")
+library(car)
+```
+
+```{r}
+df <- fread("merged_ssc_ticket_data.csv")
+
+head(df)
+```
+
+```{r}
+df_copy <- select(df, "PARENT_SERVICE", "service", "org_id", "ASSIGNED_GROUP", "PRIORITY", "STATUS", 
+                  "ACTUAL_COMPLETION_HRS", "BUSINESS_COMPLETION_HRS", "CLASS_STRUCTURE_ID",
+                  "CLASSIFICATION_ID", "EXTERNAL_SYSTEM", "TIME_IN_STATUS_BY_OWNER_HRS", "reassign_num")
+
+head(df_copy)
+```
+```{r}
+# Correlation between reassign_num with hours to restore
+rnACH <- cor.test(df_copy$reassign_num, df_copy$ACTUAL_COMPLETION_HRS, method="spearman")
+rnBCH <- cor.test(df_copy$reassign_num, df_copy$BUSINESS_COMPLETION_HRS, method="spearman")
+rnTISBOH <- cor.test(df_copy$reassign_num, df_copy$TIME_IN_STATUS_BY_OWNER_HRS, method="spearman")
+
+print(rnACH)
+print(rnBCH)
+print(rnTISBOH)
+```
+
+```{r}
+# Find correlation of assigned_groups, status, and hours to restore
+model <- lm(ACTUAL_COMPLETION_HRS ~ ASSIGNED_GROUP + STATUS, data = df_copy)
+print(Anova(model))
+write.table(summary(model)$coef, "ACH_AG_STAT.csv")
+
+model2 <- lm(BUSINESS_COMPLETION_HRS ~ ASSIGNED_GROUP + STATUS, data = df_copy)
+print(Anova(model2))
+write.table(summary(model2)$coef, "BCH_AG_STAT.csv")
+
+model3 <- lm(TIME_IN_STATUS_BY_OWNER_HRS ~ ASSIGNED_GROUP + STATUS, data = df_copy)
+print(Anova(model3))
+write.table(summary(model3)$coef, "TISBOH_AG_STAT.csv")
+
+# Do it based on incident owner history
+ioh <- fread("INCIDENT_OWNER_HISTORY.csv")
+
+# Drop NaN rows based on hours
+ioh <- ioh[!is.na(ioh$TIME_IN_STATUS_BY_OWNER_HRS), ]
+model4 <- lm(TIME_IN_STATUS_BY_OWNER_HRS ~ assigned_group + STATUS, data = ioh)
+print(Anova(model4))
+write.table(summary(model4)$coef, "IOH_TISBOH_AG_STAT.csv")
+```
+
+```{r}
+# Find correlation of PARENT_SERVICE and hours to restore
+model <- lm(ACTUAL_COMPLETION_HRS ~ PARENT_SERVICE, data = df_copy)
+print(Anova(model))
+write.table(summary(model)$coef, "ACH_PS.csv")
+
+model2 <- lm(BUSINESS_COMPLETION_HRS ~ PARENT_SERVICE, data = df_copy)
+print(Anova(model2))
+write.table(summary(model2)$coef, "BCH_PS.csv")
+
+model3 <- lm(TIME_IN_STATUS_BY_OWNER_HRS ~ PARENT_SERVICE, data = df_copy)
+print(Anova(model3))
+write.table(summary(model3)$coef, "TISBOH_PS.csv")
+
+model4 <- lm(TIME_IN_STATUS_BY_OWNER_HRS ~ PARENT_SERVICE, data = ioh)
+print(Anova(model4))
+write.table(summary(model4)$coef, "IOH_PS.csv")
+
+# Find correlation of service and hours to restore
+model <- lm(ACTUAL_COMPLETION_HRS ~ service, data = df_copy)
+print(Anova(model))
+write.table(summary(model)$coef, "ACH_serv.csv")
+
+model2 <- lm(BUSINESS_COMPLETION_HRS ~ service, data = df_copy)
+print(Anova(model2))
+write.table(summary(model2)$coef, "BCH_serv.csv")
+
+model3 <- lm(TIME_IN_STATUS_BY_OWNER_HRS ~ service, data = df_copy)
+print(Anova(model3))
+write.table(summary(model3)$coef, "TISBOH_serv.csv")
+
+model4 <- lm(TIME_IN_STATUS_BY_OWNER_HRS ~ service, data = ioh)
+print(Anova(model4))
+write.table(summary(model4)$coef, "IOH_serv.csv")
+```
+
+```{r}
+# Load data
+ioh_avgTimeAGStatus <- fread("./AVGDATA/IOH_avgTimeAGStatus.csv")
+
+# Drop NaNs
+ioh_avgTimeAGStatus <- ioh_avgTimeAGStatus[!is.na(ioh_avgTimeAGStatus$TIME_IN_STATUS_BY_OWNER_HRS), ]
+
+model <- lm(TIME_IN_STATUS_BY_OWNER_HRS ~ assigned_group + STATUS, data = ioh_avgTimeAGStatus)
+print(Anova(model))
+write.table(summary(model)$coef, "IOH_AVGTISBOH_AG_STATUS.csv")
+```
+

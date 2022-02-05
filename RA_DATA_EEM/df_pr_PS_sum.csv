@@ -1,0 +1,86 @@
+PRIORITY,PARENT_SERVICE,reassign_num
+Low,Other Activities,15925
+Medium,Other Activities,6820
+Low,Intra-building Network Services,5395
+Medium,GC WAN,4729
+Medium,Intra-building Network Services,3961
+Low,Mobile Devices,3353
+Low,GC WAN,3145
+Medium,Midrange,3026
+Low,Fixed Line,2924
+Low,Midrange,2791
+Low,Directory Services,2230
+Low,High-performance Computing,1824
+Medium,Firewall,1482
+Low,Email,1351
+Low,Firewall,1270
+Low,Storage,1246
+Medium,Storage,1047
+Low,Secure Remote Access,932
+Low,Middleware,899
+Low,Contact Centre,837
+Medium,Fixed Line,806
+Low,Conferencing Services,783
+Medium,Directory Services,778
+Medium,Data Centre Facilities Management,759
+Low,Data Centre Facilities Management,758
+Medium,Middleware,756
+Medium,High-performance Computing,686
+Medium,Email,614
+Low,Internal Credential Management (ICM),551
+Medium,Mobile Devices,550
+Medium,Secure Remote Access,522
+High,Other Activities,495
+Medium,Contact Centre,320
+High,Intra-building Network Services,315
+Low,Mainframe,296
+High,GC WAN,249
+High,Midrange,229
+Low,Database,217
+Medium,Conferencing Services,200
+Medium,Database,162
+Low,Government of Canada Managed Security Service,157
+High,Firewall,146
+High,Middleware,123
+High,Mobile Devices,112
+Medium,Internal Credential Management (ICM),107
+Medium,Toll-free Voice,95
+High,Secure Remote Access,83
+High,Email,81
+Low,Toll-free Voice,79
+High,Directory Services,74
+High,Fixed Line,62
+Medium,Mainframe,61
+High,Storage,57
+High,Data Centre Facilities Management,51
+Low,Distributed Print,50
+Low,Workplace Technology Services,49
+Medium,Government of Canada Managed Security Service,46
+Low,Satellite,35
+High,Contact Centre,34
+Low,Cloud Brokering,32
+Low,Managed Secure File Transfer,32
+High,Database,26
+High,High-performance Computing,20
+Medium,Classified Infrastructure,19
+Medium,Workplace Technology Services,18
+Medium,Cloud Brokering,17
+Medium,Distributed Print,17
+Medium,Satellite,15
+High,Mainframe,14
+High,Internal Credential Management (ICM),14
+Medium,Managed Secure File Transfer,13
+Low,WTD Provisioning,13
+Low,Classified Infrastructure,9
+High,Cloud Brokering,8
+High,Conferencing Services,6
+Medium,IT Continuity Support Service,3
+High,Government of Canada Managed Security Service,2
+Low,Solutions Integration Service (SIS),2
+High,Toll-free Voice,2
+Low,Internet,1
+High,Distributed Print,0
+Medium,Facilities-as-a-service (FaaS),0
+Low,Bulk Print,0
+Medium,Bulk Print,0
+High,Classified Infrastructure,0
