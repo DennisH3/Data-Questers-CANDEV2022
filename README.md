@@ -47,6 +47,7 @@ The environments used were Python, RStudio, and Excel
 - pandas: To deal with loading, manipulating, and writing csv files
 - numpy: Functions that pandas uses in the background for quick computations
 - IPython: To display dataframes neatly in console
+- dython: To find correlation between categorical data and numerical data
 
 ## RStudio
 - tidyverse: To use for data analysis; general package that is often used
@@ -54,7 +55,7 @@ The environments used were Python, RStudio, and Excel
 - car: To compute ANOVA analysis
 
 # Design Decisions
-- Python was used for quick data manipulations, specifically to do grouped calculations (mean, sum, and count) by the specified attributes in the challenge. Python was primarily used to answer the questions related to averages
+- Python was used for quick data manipulations, specifically to do grouped calculations (mean, sum, and count) by the specified attributes in the challenge, and to calculate the reassigned times for each incident ticket. Python was primarily used to answer the questions related to averages
 - Rstudio was used for calculating correlations using linear models. Finding correlations with categorical attributes and numerical attributes is difficult. The `lm()` function automatically converts categorical attributes to dummy variables (1-hot encoded) and then performs a regression with the target attribute (Restore time - numerical). `Anova()` is a special linear model where the attributes are categorical. A p-value of <0.05 illustrates that the feature's relationship is significant to the target attribute. The sign of the intercept illustrates whether the attributes are negatively or positively correlated. RStudio was also used to generate visualizations
 - Excel was used to do correlation analysis of number of times a ticket is reassigned with restore time. Excel was also used to produce visualizations
 
@@ -74,5 +75,5 @@ Technical skills: Python, R, PowerBI, Tableau, and Git/GitHub
 Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb,anova_results.ipynb and correlation_test.Rmd. Used Rmarkdown specifically for visualization.    
 Technical skills: R, Stata and Python
 
-Fangyi Yu, Ontario Tech University: Focused on answering all the questions regarding reassignment of tickets (author of reassignment.ipynb) as well as correlation questions. Made visualizations in Excel  
-Technical skills: Python, Excel
+Fangyi Yu, Ontario Tech University: Focused on answering all the questions regarding reassignment of tickets (author of reassignment.ipynb) as well as correlation questions. Made visualizations and dashboard in Excel(PivotChart)  
+Technical skills: Python, Excel, Tableau, GitHub, Tensorflow, Pytorch, Hypothesis Testing
