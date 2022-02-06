@@ -64,6 +64,11 @@ R and Excel were the chosen visualization tools as they were easily accessible b
 ## Next Steps
 Ideally, the solution should have been a 2-3 page interactive dashboard that does the calculations in basic_statistics.ipynb, correlation analysis, and a comparison of the major differences between the data including and excluding EVENT MANAGEMENT tickets (could be done in first sheet)  
 
+Another possible next step is to create an automated pipeline from data preprocessing to visualization creation which can be further used to automate creating reports
+
+### Options
+- PowerBI/Tableau/RShiny: An interactive dashboard which would allow the user to compare select columns to group by and then calculate an aggregated function (sum, average, count, etc.) and visualize the correlations between variables. Advantage: only one visualization needs to be made and the user can use slicers to build the graph of their interest
+- Python/R: The use of notebooks (Jupyter and RMarkdown, respectively) makes it really easy to create reports while being able to run code, since notebooks can be published into different formats, such as html, PDF, MS Word documents, etc. R would be the better platform to pursue automated reports as it has a convenient operator to pipe processing, `%>%` (from magrittr package) or `|>` (native as of R version 4.1.0)
 
 # Team Members and Contributions
 Tejashwar Singh Banafar, Saint Mary's University: Team leader  
