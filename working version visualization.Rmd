@@ -1,5 +1,5 @@
 ---
-title: "Workign Version 1"
+title: "Visual model RMD"
 author: "Joon Bum Yang"
 date: "04/02/2022"
 output: pdf_document
