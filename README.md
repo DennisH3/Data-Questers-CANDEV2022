@@ -72,7 +72,7 @@ Dennis Huynh, Queen's University: Focused on answering all the average questions
 Technical skills: Python, R, PowerBI, Tableau, and Git/GitHub
 
 Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb,anova_results.ipynb and correlation_test.Rmd. Used Rmarkdown specifically for visualization.    
-Technical skills: R
+Technical skills: R, Stata and Python
 
 Fangyi Yu, Ontario Tech University: Focused on answering all the questions regarding reassignment of tickets (author of reassignment.ipynb) as well as correlation questions. Made visualizations in Excel  
 Technical skills: Python, Excel
