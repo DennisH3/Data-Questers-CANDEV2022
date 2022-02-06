@@ -33,11 +33,13 @@ Note: The original data used for this challenge is not posted in this repository
 - basic_statistics.ipynb: contains code that answers all the average time questions. Included and modified code from reassignment.ipynb to get basic statistics for this attribute. Also compares just, excluding, and including Event Management Tickets averages.
 - correlation_test.Rmd: contains code that answers all the correlation questions using regression analysis (linear models and ANOVA)
 - reassignment.ipynb: contains code that calculates the number of times a ticket is reassigned
+- Visual Model RMD.Rmd: contains code that creates visualizations from resulting csvs from basic_statistics.ipynb
 
 ## Files in Google Drive
 - merged_ssc_ticket_data.csv: a data set that combines INCIDENTS.csv and INCIDENTS_OWNER_HISTORY.csv into one file
 - ssc_data_no_reassignment.csv (Extension): a data set that only has tickets that have NOT been reassigned based on merged_ssc_ticket_data.csv
 - reassignment.xlsx: analysis of ticket reassignment completed in Excel
+- /Presentations/Dashboard.pdf: final solution of the data challenge, compiles all relevant visualizations into a 2-page dashboard
 
 # Dependencies
 The environments used were Python, RStudio, and Excel
@@ -47,7 +49,7 @@ The environments used were Python, RStudio, and Excel
 - pandas: To deal with loading, manipulating, and writing csv files
 - numpy: Functions that pandas uses in the background for quick computations
 - IPython: To display dataframes neatly in console
-- dython: To find correlation between categorical data and numerical data
+- Python: To find correlation between categorical data and numerical data
 
 ## RStudio
 - tidyverse: To use for data analysis; general package that is often used
@@ -66,18 +68,21 @@ Ideally, the solution should have been a 2-3 page interactive dashboard that doe
 
 Another possible next step is to create an automated pipeline from data preprocessing to visualization creation which can be further used to automate creating reports
 
+Finally, machine learning, specifically for the task of classification to assign tickets to specific services and groups can be leveraged to replace manually assigning tickets. Can use NLP if ticket description is provided
+
 ### Options
 - PowerBI/Tableau/RShiny: An interactive dashboard which would allow the user to compare select columns to group by and then calculate an aggregated function (sum, average, count, etc.) and visualize the correlations between variables. Advantage: only one visualization needs to be made and the user can use slicers to build the graph of their interest
 - Python/R: The use of notebooks (Jupyter and RMarkdown, respectively) makes it really easy to create reports while being able to run code, since notebooks can be published into different formats, such as html, PDF, MS Word documents, etc. R would be the better platform to pursue automated reports as it has a convenient operator to pipe processing, `%>%` (from magrittr package) or `|>` (native as of R version 4.1.0)
+- Python: To be used for the classification task of assigning tickets to services and groups
 
 # Team Members and Contributions
-Tejashwar Singh Banafar, Saint Mary's University: Team leader  
-Technical skills: SQL
+Tejashwar Singh Banafar, Saint Mary's University: Team leader, focused on average time tickets spent with assigned group  
+Technical skills: SQL, PowerBI, Java, Quantitative and Business Analysis
 
 Dennis Huynh, Queen's University: Focused on answering all the average questions (author of basic_statistics.ipynb and anova_results.ipynb). Calculated the correlations between specified attributes using linear models (author of correlation_test.Rmd). Responsible for the GitHub  
 Technical skills: Python, R, PowerBI, Tableau, and Git/GitHub
 
-Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb,anova_results.ipynb and correlation_test.Rmd. Used Rmarkdown specifically for visualization. Author of Visual Model RMD.rmd    
+Joonbum Yang, University of Toronto: Focused on creating the visualizations from the outputs of basic_statistics.ipynb, anova_results.ipynb and correlation_test.Rmd. Used Rmarkdown specifically for visualization. Author of Visual Model RMD.Rmd    
 Technical skills: R, Stata and Python
 
 Fangyi Yu, Ontario Tech University: Focused on answering all the questions regarding reassignment of tickets (author of reassignment.ipynb) as well as correlation questions. Made visualizations and dashboard in Excel(PivotChart)  
